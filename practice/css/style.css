@@ -1,0 +1,49 @@
+.maincon{
+    margin:0;
+    padding: 0;
+}
+ .leftcon{
+    width: 49%;
+    height: 500px;
+    background-color: red;
+    float: left;
+}
+.rightcon{
+    width: 49%;
+    height: 500px;
+    float: right; 
+}
+.top{
+    width: 100%;
+    height: 50%;
+    background-color: blue;
+    display: flex;
+    gap: 0.95rem;
+}
+.topleft{
+    width: 49%;
+    height: 100%;
+    background-color: gray;
+}
+.topright{
+    width: 49%;
+    height: 100%;
+    background-color: black;
+}
+.bottom{
+    width: 100%;
+    height: 50%;
+    background-color:green;
+    display: flex;
+    gap: 0.95rem;
+}
+.bottomleft{
+    width: 49%;
+    height: 100%;
+    background-color: yellow;
+}
+.bottomright{
+    width: 49%;
+    height: 100%;
+    background-color:pink ;
+}

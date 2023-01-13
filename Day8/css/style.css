@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    width: 25%;
+    height: 300px;
+    background-color: blue;
+}
+.box2{
+    width: 25%;
+    height: 300px;
+    background-color: yellow;
+}
+.box3{
+    width: 25%;
+    height: 300px;
+    background-color: green;
+}

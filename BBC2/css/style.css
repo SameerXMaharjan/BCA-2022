@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 95%;
+    background-color: red;
+    margin: auto;
+}
+header{
+    width: 100%;
+    background-color: black;
+    height: 60px;
+    position: absolute;
+}
+.leftheader{
+    display: flex;
+}
+.bbcimg img{
+    margin-top: 9px;
+    height: 40px;
+}
+.userimg img{
+   height: 40px;
+   margin-top: 9px;
+}
+.log_in a{
+    text-decoration: none;
+    color: white;
+}
